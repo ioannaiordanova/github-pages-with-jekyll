@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-date: 2020_08-20
+date: 2020-08-20
 ---
 
 # Welcome
